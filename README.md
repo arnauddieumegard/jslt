@@ -3,9 +3,6 @@
 
 # JSLT
 
-<!-- START doctoc -->
-<!-- END doctoc -->
-
 JSLT is a complete query and transformation language for JSON.  The
 language design is inspired by [jq](https://stedolan.github.io/jq/),
 [XPath](https://www.w3.org/TR/1999/REC-xpath-19991116/), and

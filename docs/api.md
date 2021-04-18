@@ -1,3 +1,5 @@
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Using the JSLT API
 

@@ -1,3 +1,5 @@
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # JSLT experimental module
 

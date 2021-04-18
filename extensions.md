@@ -1,3 +1,5 @@
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Adding JSLT extension functions
 
