@@ -1,7 +1,10 @@
-* auto-gen TOC:
-{:toc}
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # JSLT
+
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 JSLT is a complete query and transformation language for JSON.  The
 language design is inspired by [jq](https://stedolan.github.io/jq/),
