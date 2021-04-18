@@ -1,5 +1,20 @@
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [JSLT](#jslt)
+  - [Quick reference](#quick-reference)
+  - [Using the library](#using-the-library)
+  - [Command-line](#command-line)
+  - [Extension functions](#extension-functions)
+  - [Feedback](#feedback)
+  - [Status](#status)
+  - [Building JSLT](#building-jslt)
+  - [More information](#more-information)
+  - [LICENSE](#license)
+  - [What is missing](#what-is-missing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # JSLT
 
